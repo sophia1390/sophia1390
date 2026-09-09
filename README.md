@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Sophia (@sophia1390) 👋
 
-<!--
-**sophia1390/sophia1390** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems programmer based in London. Most of my time goes into writing Rust, profiling Linux binaries, and experimenting with WebAssembly.
 
-Here are some ideas to get you started:
+### Current focus
+- Low-level network utilities and small, single-purpose CLI tools in Rust
+- Digging into Linux kernel tracing and eBPF
+- Porting old C libraries to Wasm runtimes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack / Tools
+- **Core:** Rust, C, Linux, Git
+- **Systems/Runtime:** WebAssembly (`wasm-tools`, `wasmtime`), Docker, eBPF
+- **Debugging & Profiling:** `perf`, `gdb`, `valgrind`, `strace`
+
+### Connect
+- Email: `sophia1390.dev@proton.me`
+- Or open an issue/PR on any of my public repos.
